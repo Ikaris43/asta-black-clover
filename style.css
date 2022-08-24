@@ -1,0 +1,17 @@
+* {
+    border: none;
+    padding: 0;
+    
+}
+
+.topo-pagina {
+    display: flex;
+    background-color: #051417;
+    align-items: center;
+    justify-content: space-around;
+    height: 60px;
+}
+
+.logo {
+    height: 60px;
+}
